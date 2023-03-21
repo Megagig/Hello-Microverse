@@ -1,59 +1,94 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 [HELLO-MICROVERSE]
-Describe your project in 1 or 2 sentences.
+<h3><b>Hello Microverse</b></h3>
 
-[HELLO-MICROVERSE] is a...
+# 📗 Table of Contents
 
-🛠 Built With HTML and CSS
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-💻 Getting Started
-Get you Pc. Clone this project to your local machine
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-Prerequisites
-Basic knownledge of Computer
+The Hello Microverse website displays a header with Hello Microverse.
 
-👤 Author
+## 🛠 Built With <a name="built-with"></a>
 
-GitHub: @Megagig
-Twitter: @Megagigsolution
-LinkedIn: LinkedIn.com/anthony
+HTML(HTML-5).
+CSS
 
-🤝 Contributing
+### Key Features <a name="key-features"></a>
+
+Gitflow.
+Linters.
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+1 clone Repo. git@github.com:Megagig/Hello-microverse.git
+
+2 Install npm (node pakage manager) you can run any one of these commands to install npm on your machine:
+
+### Prerequisites
+
+In order to run this project you need:
+A computer
+Access to Internet Connection
+
+### Setup
+
+Clone this repository to your desired folder:
+git@github.com:Megagig/Hello-Microverse.git
+cd Hello-Microverse
+
+### Install
+
+Install this project with:
+
+npm init -y
+
+## 👥 Author <a name="authors"></a>
+
+👤 _Author_
+
+- GitHub: [@Megagig](https://github.com/Megagig)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+## ⭐️ Show your support <a name="support"></a>
 
-⭐️ Show your support
+Give a ⭐️ if you like this project!
 
-If you like this project, give it a star
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-🙏 Acknowledgments
-I would like to thank Emmanuel who inspired be to continue and finish this project
+I would like to thank all Microverse community.
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-📝 License
+## 📝 License <a name="license"></a>
+
 This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
